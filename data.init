@@ -1,0 +1,5 @@
+[postgresql]
+host=localhost
+database=adventure
+user=estudiante
+password=3stud14nt3
